@@ -1,0 +1,66 @@
+Dogging Site Research
+
+IMAGES          - https://www.thesportsdb.com/images/media/team/badge/wbhu3a1548320628.png
+Cardinals       - xvuwtw1420646838.png  - de760528-1dc0-416a-a978-b510d20692ff
+Falcons         - rrpvpr1420658174.png  - e6aa13a4-0055-48a9-bc41-be28dc106929
+Ravens          - einz3p1546172463.png  - ebd87119-b331-4469-9ea6-d51fe3ce2f1c
+Bills           - 6pb37b1515849026.png  - 768c92aa-75ff-4a43-bcc0-f2798c2e1724
+Panthers        - xxyvvy1420940478.png  - f14bf5cc-9a82-4a38-bc15-d39f75ed5314
+Bears           - uwtwtv1420941123.png  - 7b112545-38e6-483c-a55c-96cf6ee49cb8
+Bengals         - qqtwwv1420941670.png  - ad4ae08f-d808-42d5-a1e6-e9bc4e34d123
+Browns          - squvxy1420942389.png  - d5a2eb42-8065-4174-ab79-0a6fa820e35e
+Cowboys         - wrxssu1450018209.png  - e627eec7-bbae-4fa4-8e73-8e1d6bc5c060
+Broncos         - upsspx1421635647.png  - ce92bd47-93d5-4fe9-ada4-0fc681e6caa0
+Lions           - lgsgkr1546168257.png  - c5a59daa-53a7-4de0-851f-fb12be893e9e
+Packers         - rqpwtr1421434717.png  - a20471b4-a8d9-40c7-95ad-90cc30e46932
+Texans          - wqyryy1421436627.png  - 82d2d380-3834-4938-835f-aec541e5ece7
+Colts           - wqqvpx1421434058.png  - 82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9
+Jaguars         - 0mrsd41546427902.png  - f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de
+Chiefs          - 936t161515847222.png  - 6680d28d-d4d2-49f6-aace-5292d3ec02c2
+Raiders         - xqusqy1421724291.png  - 7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576
+Chargers        - wbhu3a1548320628.png  - 1f6dcffb-9823-43cd-9ff4-e7a8466749b5
+Rams            - 8e8v4i1599764614.png  - 2eff2a03-54d4-46ba-890e-2bc3925548f3
+Dolphins        - trtusv1421435081.png  - 4809ecb0-abd3-451d-9c4a-92a90b83ca06
+Vikings         - qstqqr1421609163.png  - 33405046-04ee-4058-a950-d606f8c30852
+Patriots        - xtwxyt1421431860.png  - 97354895-8c77-4fd4-a860-32e62ea7382a
+Saints          - nd46c71537821337.png  - 0d855753-ea21-4953-89f9-0e20aff9eb73
+Giants          - vxppup1423669459.png  - 04aa1c9d-66da-489d-b16a-1dee3f2eec4d
+Jets            - hz92od1607953467.png  - 5fee86ae-74ab-4bdd-8416-42a9dd9964f
+Eagles          - pnpybf1515852421.png  - 386bdbf9-9eea-4869-bb9a-274b0bc66e80
+Steelers        - 2975411515853129.png  - cb2f9f1f-ac67-424e-9e72-1475cb0ed398
+49ers           - bqbtg61539537328.png  - f0e724b0-4cbf-495a-be47-013907608da9
+Seahawks        - wwuqyr1421434817.png  - 3d08af9e-c767-4f88-a7dc-b920c6d2b4a8
+Buccaneers      - 2dfpdl1537820969.png  - 4254d319-1bc7-4f81-b4ab-b5e6f3402b69
+Titans          - m48yia1515847376.png  - d26a1ca5-722d-4274-8f97-c92e49c96315
+Football Team   - 1m3mzp1595609069.png  - 22052ff7-c065-42ee-bc8f-c4691c50e624
+
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Baltimore Ravens', 'Ravens', 'einz3p1546172463.png', 'ebd87119-b331-4469-9ea6-d51fe3ce2f1c'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Buffalo Bills', 'Bills', '6pb37b1515849026.png', '768c92aa-75ff-4a43-bcc0-f2798c2e1724'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Carolina Panthers', 'Panthers', 'xxyvvy1420940478.png', 'f14bf5cc-9a82-4a38-bc15-d39f75ed5314'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Chicago Bears', 'Bears', 'uwtwtv1420941123.png', '7b112545-38e6-483c-a55c-96cf6ee49cb8'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Cincinnati Bengals', 'Bengals', 'qqtwwv1420941670.png', 'ad4ae08f-d808-42d5-a1e6-e9bc4e34d123'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Cleveland Browns', 'Browns', 'squvxy1420942389.png', 'd5a2eb42-8065-4174-ab79-0a6fa820e35e'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Dallas Cowboys', 'Cowboys', 'wrxssu1450018209.png', 'e627eec7-bbae-4fa4-8e73-8e1d6bc5c060'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Denver Broncos', 'Broncos', 'upsspx1421635647.png', 'ce92bd47-93d5-4fe9-ada4-0fc681e6caa0'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Detroit Lions', 'Lions', 'lgsgkr1546168257.png', 'c5a59daa-53a7-4de0-851f-fb12be893e9e'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Green Bay Packers', 'Packers', 'rqpwtr1421434717.png', 'a20471b4-a8d9-40c7-95ad-90cc30e46932'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Houston Texans', 'Texans', 'wqyryy1421436627.png', '82d2d380-3834-4938-835f-aec541e5ece7'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Indianapolis Colts', 'Colts', 'wqqvpx1421434058.png', '82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Jacksonville Jaguars', 'Jaguars', '0mrsd41546427902.png', 'f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Kansas City Chiefs', 'Chiefs', '936t161515847222.png', '6680d28d-d4d2-49f6-aace-5292d3ec02c2'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Las Vegas Raiders', 'Raiders', 'xqusqy1421724291.png', '7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Los Angeles Chargers', 'Chargers', 'wbhu3a1548320628.png', '1f6dcffb-9823-43cd-9ff4-e7a8466749b5'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Los Angeles Rams', 'Rams', '8e8v4i1599764614.png', '2eff2a03-54d4-46ba-890e-2bc3925548f3'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Miami Dolphins', 'Dolphins', 'trtusv1421435081.png', '4809ecb0-abd3-451d-9c4a-92a90b83ca06'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Minnesota Vikings', 'Vikings', 'qstqqr1421609163.png', '33405046-04ee-4058-a950-d606f8c30852'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('New England Patriots', 'Patriots', 'xtwxyt1421431860.png', '97354895-8c77-4fd4-a860-32e62ea7382a'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('New Orleans Saints', 'Saints', 'nd46c71537821337.png', '0d855753-ea21-4953-89f9-0e20aff9eb73'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('New York Giants', 'Giants', 'vxppup1423669459.png', '04aa1c9d-66da-489d-b16a-1dee3f2eec4d'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('New York Jets', 'Jets', 'hz92od1607953467.png', '5fee86ae-74ab-4bdd-8416-42a9dd9964f'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Philadelphia Eagles', 'Eagles', 'pnpybf1515852421.png', '386bdbf9-9eea-4869-bb9a-274b0bc66e80'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Pittsburgh Steelers', 'Steelers', '2975411515853129.png', 'cb2f9f1f-ac67-424e-9e72-1475cb0ed398'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('San Francisco 49ers', '49ers', 'bqbtg61539537328.png', 'f0e724b0-4cbf-495a-be47-013907608da9'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Seattle Seahawks', 'Seahawks', 'wwuqyr1421434817.png', '3d08af9e-c767-4f88-a7dc-b920c6d2b4a8'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Tampa Bay Buccaneers', 'Buccaneers', '2dfpdl1537820969.png', '4254d319-1bc7-4f81-b4ab-b5e6f3402b69'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Tennessee Titans', 'Titans', 'm48yia1515847376.png', 'd26a1ca5-722d-4274-8f97-c92e49c96315'),
+INSERT INTO `teams`(`name`, `tag`, `logo`, `sportRadarId`) VALUES ('Washington Football Team', 'Football Team', '1m3mzp1595609069.png', '22052ff7-c065-42ee-bc8f-c4691c50e624');

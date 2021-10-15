@@ -1,0 +1,114 @@
+@media (max-width: 576px) {
+  body {
+    padding-top: 80px;
+  }
+
+  h4.mobile{
+    font-size: 20px;
+  }
+
+  h5.mobile{
+    font-size: 10px;
+  }
+
+  h1.mobile{
+    font-size: 25px;
+  }
+
+  h3.mobile{
+    font-size: 12px;
+  }
+
+  small.mobile{
+    font-size: 8px;
+  }
+
+  .mbri-timer{
+    font-size:40px;
+  }
+
+  .mbrib-target{
+    font-size:40px;
+  }
+
+  .mbrib-growing-chart{
+    font-size:40px;
+  }
+
+  .mbrib-numbered-list{
+    font-size:40px;
+  }
+
+  .socicon-slack{
+    font-size:40px;
+  }
+
+  .mobi-mbri-close{
+    font-size:20px;
+  }
+
+  .mbri-users{
+    font-size:40px;
+  }
+
+  .mbrib-cursor-click{
+    font-size:40px;
+  }
+
+  .fa-balance-scale,.mbri-help, .mbri-numbered-list,.mbri-touch, .mbri-plus, .mbri-play, .mbri-setting, .mbri-user{
+    font-size:40px;
+  }
+
+  .mobi-mbri-success{
+    font-size:20px;
+  }
+
+  td.mobile{
+    font-size: 12px;
+  }
+
+  form-control-sm{
+    width: auto;
+  }
+
+  span.icon{
+    font-size:40px;
+  }
+
+  div.mobile{
+    font-size: 12px;
+  }
+
+  button.mobile{
+    font-size: 10px;
+  }
+
+  label.mobile{
+    font-size: 10px;
+  }
+
+  a.mobile{
+    font-size: 11px;
+    margin:3px;
+    padding:5px;
+  }
+}
+
+@media (min-width: 576px) {
+
+
+  .menu{
+    color: rgb(34, 153, 170); fill: rgb(34, 153, 170);
+    font-size: 20px;
+  }
+
+  h5.tab{
+    font-size: 25px;
+  }
+
+  .fa-balance-scale,.mbri-help, .mbri-numbered-list,.mbri-touch, .mbri-plus, .mbri-play, .mbri-setting, .mbri-user{
+    font-size:40px;
+    padding-bottom:10px;
+  }
+
+}

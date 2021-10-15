@@ -1,0 +1,144 @@
+
+.table thead{
+  color: white;
+  background-color: #013369;
+}
+
+th.titlel{
+  border-radius: 10px 0px 0px 0px;
+  border-top:none;
+
+}
+
+th.title{
+  border-top:none;
+}
+
+th.titler{
+  border-radius: 0px 10px 0px 0px;
+  border-top:none;
+}
+
+.nav{
+  justify-content: center;
+
+}
+
+.nav-tabs {
+  border-color: none;
+}
+
+a.goat{
+  margin: 10px;
+  padding: 10px;
+}
+
+.nav-tabs li a{
+  background-color: white;
+  color: #013369;
+  border: 1px solid;
+  border-color: #013369;
+  border-radius: 5px 5px 0px 0px;
+}
+
+a.goat:hover{
+  background-color:rgb(255,223,0); fill: rgb(255,223,0);
+  color: white;
+  border-radius: 5px 5px 0px 0px;
+}
+
+a.tabs{
+  margin: 10px;
+  padding: 10px;
+}
+
+
+a.tabs:hover{
+    color: white;
+    background-color: #013369;
+    border-radius: 5px 5px 0px 0px;
+}
+
+
+.mobile.goat.menu.display-7.active{
+  color: white;
+  background-color: rgb(255,223,0); fill: rgb(255,223,0);
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid;
+  border-color: rgb(255,223,0); fill: rgb(255,223,0);
+}
+
+.menu.display-7.active{
+  color: white;
+  background-color: #013369;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.menu{
+  color: #013369;
+  font-size: 30px;
+}
+
+.mobilenav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 55px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    display: flex;
+    overflow-x: auto;
+    z-index: 2;
+}
+
+.mobilenav__link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    min-width: 50px;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #444444;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: background-color 0.1s ease-in-out;
+}
+
+.mobilenav__link:hover {
+    background-color: #013369;
+    color: white;
+}
+
+.mobilenav__link--active {
+    color: #013369;
+}
+
+.mobilenav__icon {
+    font-size: 25px;
+}
+
+#rcorners4 {
+  border-radius: 0px 0px 20px 20px;
+  background:	#F8F8F8;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+
+}
+
+#rcorners5 {
+  border-radius: 20px 20px 20px 20px;
+  background:	#F8F8F8;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+
+}
+
+.tournament{
+  margin: auto auto;
+}

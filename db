@@ -1,0 +1,15 @@
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (1,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (1,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (1,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (2,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (2,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (2,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (3,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (3,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (3,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (4,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (4,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (4,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (5,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (5,'',1);
+INSERT INTO `picks`(`userid`, `matchid`, `week`) VALUES (5,'',1);
